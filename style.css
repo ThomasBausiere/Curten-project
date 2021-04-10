@@ -10,9 +10,9 @@ span{
 
 }
 
-overlay{
-    height: 100%;
-    width:0;
+.overlay{
+    height: 0;
+    width:100%;
     position: fixed;
     z-index: 1;
     left:0;
